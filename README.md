@@ -1,1 +1,2 @@
-# machine-learning-template2
+# machine-learning-
+https://www.superdatascience.com/machine-learning/
